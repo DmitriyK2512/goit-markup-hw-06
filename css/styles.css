@@ -546,6 +546,7 @@ body {
 .footer-icon-list {
     display: flex;
     column-gap: 10px;
+    margin-right: 93px;
 }
 
 .footer-icon {
@@ -570,7 +571,28 @@ body {
 }
 
 /* ------ форма подписки ----------------- */
-.footer-modal-form
+.footer-modal-form{
+    width: 570px;
+}
+.footer-modal-div{
+    display: flex; 
+    justify-content: space-between;   
+    column-gap: 12px;
+
+
+}
+.footer-modal-button{
+    width: 200px;
+}
+.footer-modal-form-field{
+    border: 1px solid rgba(255, 255, 255, 0.3);
+        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
+        border-radius: 4px;
+        width: 358px;
+        height: 50px;
+        background-color: var(--secondary-background-color-dark);
+}
+
 /* ==========   FOOTER   ===================== */
 /*================   portfolio   =========================== */
 
