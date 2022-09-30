@@ -5,6 +5,18 @@
 @import './base/section';
 @import './base/container';
 
+@import './components/link-text';
+@import './components/title';
+@import './components/transform';
+@import './components/link-accent';
+@import './components/button';
+@import './components/logo';
+@import './components/subscription-form';
+@import './components/modal-window';
+@import './components/modal-form';
+@import './components/overlay';
+@import './components/backdrop';
+
 @import './layout/header';
 @import './layout/menu';
 @import './layout/header-list';
@@ -17,17 +29,7 @@
 @import './layout/portfolio';
 
 
-@import './componenta/link-text';
-@import './componenta/title';
-@import './componenta/transform';
-@import './componenta/link-accent';
-@import './componenta/button';
-@import './componenta/logo';
-@import './componenta/subscription-form';
-@import './componenta/modal-window';
-@import './componenta/modal-form';
-@import './componenta/overlay';
-@import './componenta/backdrop';
+
 
 
 

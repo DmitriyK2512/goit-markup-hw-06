@@ -30,7 +30,7 @@
     border-radius: 50%;
     padding: 0;
 
-    &n:hover .icon-close {
+    &:hover .icon-close {
             color: var(--accent-color);
         }
 }
